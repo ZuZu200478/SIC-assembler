@@ -1,5 +1,9 @@
 # SIC Assembler 專案
-這是我的 SIC Assembler 專案，展示簡報投影片圖片。
+這是我的 SIC Assembler 專案，展示簡報投影。
+
+https://www.canva.com/design/DAGy0pewnRg/aeXMmh4W-oxi927UbIcNqA/edit?utm_content=DAGy0pewnRg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+https://www.canva.com/design/DAGy0i0umuo/FZlulRxOAi1r8ru4lX_Kzw/edit?utm_content=DAGy0i0umuo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 1️檔案與資料結構
 opcode.txt：存放操作碼（OPCODE）對應的十六進位機器碼。
